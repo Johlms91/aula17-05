@@ -1,0 +1,11 @@
+bory{
+    font-size: 12px;
+}
+
+@media(max-width:600pa) {
+    body{
+        font-size: 20px;
+        background-color: darkslategray;
+        color:  white;
+    }
+}
